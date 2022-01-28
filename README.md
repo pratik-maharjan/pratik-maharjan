@@ -1,10 +1,5 @@
 ## Hello there! I'm Pratik <img src="https://raw.githubusercontent.com/pratik-maharjan/pratik-maharjan/master/wave.gif" width="30px">
 
-### Connect with me:
-[website]: https://pratik-maharjan.github.io/portfolio/
-[linkedin]: https://linkedin.com/in/pratik-maharjan
-
-
 <!--
 **pratik-maharjan/pratik-maharjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
